@@ -1,0 +1,8 @@
+{
+  "name": "Remix AI Invoice Intake Assistant, Boon Huat Hardware \u0026 Supplies",
+  "description": "Automated supplier invoice extraction and standardisation assistant for Boon Huat Hardware \u0026 Supplies Pte Ltd Accounts Payable.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
